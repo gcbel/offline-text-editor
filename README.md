@@ -12,7 +12,8 @@ This project is a deployed PWA that can be visited here. The page allows for cre
 
 ## Credit
 
-Legacy code provided by Columbia University: https://github.com/coding-boot-camp/cautious-meme
+Legacy code provided by Columbia University: https://github.com/coding-boot-camp/cautious-meme <br>
+Documentation on Webpack PWA Manifest: https://www.npmjs.com/package/webpack-pwa-manifest
 
 ## License
 
