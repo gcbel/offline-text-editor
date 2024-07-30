@@ -4,8 +4,6 @@
 
 Visit this site at https://offline-text-editor-0slj.onrender.com.
 
-PWA built for both online and offline text editing. Built with the IndexedDB API.
-
 This project is a Progressive Web Application (PWA) that allows for both online and offline text editing. Built with Express.js, Workbox, Webpack, Babel, and persistent data storage through IndexedDB.
 
 ## Installation
